@@ -1,0 +1,103 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #5DADE2 ;
+
+}
+
+
+#header-nav {
+  background-color:#F5B7B1 ;
+  border-radius: 0;
+  border: 0;
+}
+
+
+.navbar-brand h1 { /* Restaurant name */ 
+  
+  
+  color: #16A085 ;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#color1 {
+	background-color: red;
+}
+
+#chicken {
+	text-align: center;
+}
+
+
+
+
+#chickenMenu{
+	text-align: center;
+	background-color: #ABB2B9 ;
+
+}
+
+
+#beefMenu{
+	text-align: center;
+	background-color: #808B96;
+}
+
+
+#suchiMenu {
+	text-align: center;
+	background-color: #566573;
+}
+
+
+
+#menu {
+	font-size: 60px;
+	color: black;
+}
+
+#content {
+	background-color: #D2B4DE;
+}
+
+#main-content {
+	background-color: #D2B4DE;
+	color: black;
+}
+
+
+
+
+/* These are content styles*/
+
+.foodSection {
+	background-color: #A9DFBF;
+	border: 5px solid black;
+	margin-top: 10px;
+	height: 700px;
+	position: relative;
+	color: black;
+}
+
+
+.contentOver {
+	position: absolute;
+	bottom: 10px
+}
+
+.linksProperty{
+	position: absolute;
+	bottom: 10px;
+	left: 170px;
+}
+
+
+.foodPara {
+	margin-left: 10px;
+	margin-right: 10px;
+}
